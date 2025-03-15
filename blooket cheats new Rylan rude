@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Molk client
-// @namespace    
+// @namespace    https://github.com/pinkfrog2/Molk-Client
 // @version      0.6
 // @updateURL    https://github.com/rylan2020/School-Chaets/blob/main/blooket%20cheats%20new%20Rylan%20rude
 // @description  An upload of Minesraft2's Blooket Hacks.Working currently the best added anti report and anti ban BETA
-// @author       Thatoneguy54321/Rylan rude
+// @author       pinkfrog
 // @match        *://*.blooket.com/*
 // @match        *://blooket.com/*
 // @icon         https://static.wikia.nocookie.net/blooket/images/1/1d/Rainbow_Astronaut.gif/revision/latest?cb=20230123222759
