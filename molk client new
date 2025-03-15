@@ -6,7 +6,7 @@
 // @author       pinkfrogger/pinkfrog2
 // @match        *://*.blooket.com/*
 // @match        *://blooket.com/*
-// @icon         https://static.wikia.nocookie.net/blooket/images/1/1d/Rainbow_Astronaut.gif/revision/latest?cb=20230123222759
+// @icon         file:///C:/Users/mrstu/Downloads/molk.jpg
 // @grant        none
 // @run-at       document-end
 // @license      Thatoneguy54321/RylanRude
