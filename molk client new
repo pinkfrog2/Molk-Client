@@ -7949,7 +7949,7 @@
                 display: "flex",
                 flexDirection: "column"
             },
-            innerHTML: '<span style="text-shadow: 1px 1px rgb(0 0 0 / 40%); font-size: 0.8em;">Diggy<sup>client</sup></span>'
+            innerHTML: '<span style="text-shadow: 1px 1px rgb(0 0 0 / 40%); font-size: 0.8em;">Molksup>client</sup></span>'
         }, l("a", {
             className: "bigButton",
             style: {
@@ -15258,4 +15258,19 @@
                 return wfcall.apply(this, arguments);
             C.alerts?.[0].addLog("Blooket Cheat Report Blocked!")
         }
+})();// ==UserScript==
+// @name         New Userscript
+// @namespace    http://tampermonkey.net/
+// @version      2025-03-17
+// @description  try to take over the world!
+// @author       You
+// @match        https://classroom.google.com/u/2/h
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    // Your code here...
 })();
