@@ -7949,7 +7949,7 @@
                 display: "flex",
                 flexDirection: "column"
             },
-            innerHTML: '<span style="text-shadow: 1px 1px rgb(0 0 0 / 40%); font-size: 0.8em;">Molksup>client</sup></span>'
+            innerHTML: '<span style="text-shadow: 1px 1px rgb(0 0 0 / 40%); font-size: 0.8em;">Molk>client</sup></span>'
         }, l("a", {
             className: "bigButton",
             style: {
@@ -15266,6 +15266,21 @@
 // @author       You
 // @match        https://classroom.google.com/u/2/h
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    // Your code here...
+})();// ==UserScript==
+// @name         New Userscript
+// @namespace    http://tampermonkey.net/
+// @version      2025-03-17
+// @description  try to take over the world!
+// @author       You
+// @match        https://www.bing.com/search?q=git+hub&form=ANNTH1&pqlth=3&assgl=7&sgcn=git+hub&sgtpv=HS&smvpcn=0&swbcn=10&sctcn=0&sc=10-3&ghc=0&clckatsg=1&hsmssg=0
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=bing.com
 // @grant        none
 // ==/UserScript==
 
